@@ -1,0 +1,2 @@
+# Rick
+Just another repository
